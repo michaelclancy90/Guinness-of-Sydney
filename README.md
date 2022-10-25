@@ -30,6 +30,10 @@ Guinness of Sydney serves as a platform for enthusiasts of the stout, to come to
 
 ## SCREENSHOTS
 
+![](client/src/assets/Screenshots/screencapture-guinness-of-sydney-herokuapp-2022-10-25-21_40_00.png)"
+![](client/src/assets/Screenshots/screencapture-guinness-of-sydney-herokuapp-reviews-2022-10-25-21_41_49.png)
+![](client/src/assets/Screenshots/screencapture-guinness-of-sydney-herokuapp-login-2022-10-25-20_43_31.png)"
+
 <a id="INSTALLATION"></a>
 
 ## INSTALLATION
